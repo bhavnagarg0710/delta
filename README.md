@@ -1,2 +1,2 @@
-# delta
-this is demo for git and github class.
+# food-website-clone
+I am bhavna garg.
